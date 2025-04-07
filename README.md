@@ -90,6 +90,34 @@ To run the project locally, follow these steps:
   streamlit run app.py
   ```
 
+## Usage
+
+- Open the app in your browser (typically at http://localhost:8501).
+- Upload a document in PDF, CSV, Excel, or JSON format.
+- Select your preferred Groq model and enter your API key.
+- Click on "Generate Embeddings" to process the document.
+- Once embeddings are generated, ask any question related to the content of the document, and the chatbot will return an accurate answer.
+
+## Contributing
+
+I welcome contributions to improve the functionality and features of this project. To contribute:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature-name).
+- Make your changes.
+- Push to the branch (git push origin feature-name).
+- Open a pull request with a detailed description of your changes.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+
+- **Groq:** For providing the LLMs for our chatbot.
+- **FAISS:** For enabling efficient vector-based document retrieval.
+- **Hugging Face:** For their state-of-the-art embeddings and models.
+
 ## APP UI
 
 ![q1](https://github.com/shibbir-ahmad24/AI-Powered-Document-QA-ChatBot/blob/main/Figures/q1.png)
