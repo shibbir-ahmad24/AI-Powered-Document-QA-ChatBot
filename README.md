@@ -57,7 +57,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
   ```
-     git clone https://github.com/yourusername/ai-powered-document-qa-chatbot.git
+  git clone https://github.com/yourusername/ai-powered-document-qa-chatbot.git
   ```
 2. Navigate into the project directory:
   ```
@@ -68,25 +68,23 @@ To run the project locally, follow these steps:
   python -m venv venv
   ```
 4. Activate the virtual environment:
-
-  On Windows:
-  ```
-  .\venv\Scripts\activate
-  ```
-  On macOS/Linux:
-  ```
-  source venv/bin/activate
-  ```
+  - On Windows:
+    ```
+    .\venv\Scripts\activate
+    ```
+  - On macOS/Linux:
+    ```
+    source venv/bin/activate
+    ```
 5. Install the required dependencies:
   ```
   pip install -r requirements.txt
   ```
 6. Set up your environment variables:
-
-  Create a .env file in the root of the project and add your Groq API Key:
-
-  GROQ_API_KEY=your_groq_api_key_here
-
+  - Create a .env file in the root of the project and add your Groq API Key:
+    ```
+      GROQ_API_KEY=your_groq_api_key_here
+    ```
 7. Run the app:
   ```
   streamlit run app.py
