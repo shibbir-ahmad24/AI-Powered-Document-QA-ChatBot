@@ -57,7 +57,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
   ```
-  git clone https://github.com/yourusername/ai-powered-document-qa-chatbot.git
+  git clone https://github.com/shibbir-ahmad24/AI-Powered-Document-QA-ChatBot.git
   ```
 2. Navigate into the project directory:
   ```
