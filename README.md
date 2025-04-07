@@ -110,7 +110,7 @@ I welcome contributions to improve the functionality and features of this projec
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shibbir-ahmad24/AI-Powered-Document-QA-ChatBot/blob/main/LICENSE.txt) file for details.
 
 ## Acknowledgements
 
