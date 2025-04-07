@@ -98,7 +98,7 @@ To run the project locally, follow these steps:
 - Click on "Generate Embeddings" to process the document.
 - Once embeddings are generated, ask any question related to the content of the document, and the chatbot will return an accurate answer.
 
-## Contributing
+## Contributions
 
 I welcome contributions to improve the functionality and features of this project. To contribute:
 
