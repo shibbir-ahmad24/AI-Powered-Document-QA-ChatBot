@@ -83,7 +83,7 @@ To run the project locally, follow these steps:
 6. Set up your environment variables:
   - Create a .env file in the root of the project and add your Groq API Key:
     ```
-      GROQ_API_KEY=your_groq_api_key_here
+    GROQ_API_KEY=your_groq_api_key_here
     ```
 7. Run the app:
   ```
